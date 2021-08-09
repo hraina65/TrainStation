@@ -1,0 +1,4 @@
+﻿Source.obj : error LNK2005: "void __cdecl display(void)" (?display@@YAXXZ) already defined in Bl_empty.obj
+Source.obj : error LNK2005: "void __cdecl myinit(void)" (?myinit@@YAXXZ) already defined in Bl_empty.obj
+Source.obj : error LNK2005: _main already defined in Bl_empty.obj
+C:\Users\hrith\Desktop\OpenGL\Project2\Debug\Project2.exe : fatal error LNK1169: one or more multiply defined symbols found
